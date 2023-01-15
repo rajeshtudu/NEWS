@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/NEWS/static/css/main.6c821df9.css",
-    "main.js": "/NEWS/static/js/main.bd299922.js",
+    "main.css": "/NEWS/static/css/main.a57014be.css",
+    "main.js": "/NEWS/static/js/main.cf46652d.js",
     "static/media/1.png": "/NEWS/static/media/1.0ace9cab2c7247b594e0.png",
+    "static/media/about.png": "/NEWS/static/media/about.3ffe41d816636b57fc84.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/NEWS/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/9.png": "/NEWS/static/media/9.2eaa74e14ed0ead0171a.png",
     "static/media/4.png": "/NEWS/static/media/4.5b004b6933f3a33f3c3e.png",
@@ -33,11 +34,11 @@
     "static/media/most_recent2.png": "/NEWS/static/media/most_recent2.3e269ff92f0246fb3efe.png",
     "static/media/footer_post3.png": "/NEWS/static/media/footer_post3.67494dcd160877d6af20.png",
     "index.html": "/NEWS/index.html",
-    "main.6c821df9.css.map": "/NEWS/static/css/main.6c821df9.css.map",
-    "main.bd299922.js.map": "/NEWS/static/js/main.bd299922.js.map"
+    "main.a57014be.css.map": "/NEWS/static/css/main.a57014be.css.map",
+    "main.cf46652d.js.map": "/NEWS/static/js/main.cf46652d.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c821df9.css",
-    "static/js/main.bd299922.js"
+    "static/css/main.a57014be.css",
+    "static/js/main.cf46652d.js"
   ]
 }
