@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/NEWS/static/css/main.6c821df9.css",
+    "main.js": "/NEWS/static/js/main.bd299922.js",
+    "static/media/1.png": "/NEWS/static/media/1.0ace9cab2c7247b594e0.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/NEWS/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/9.png": "/NEWS/static/media/9.2eaa74e14ed0ead0171a.png",
+    "static/media/4.png": "/NEWS/static/media/4.5b004b6933f3a33f3c3e.png",
+    "static/media/3.png": "/NEWS/static/media/3.e20336fdc4e88b7f0a84.png",
+    "static/media/2.png": "/NEWS/static/media/2.e7fd27b42eb3d6534ca6.png",
+    "static/media/most_recent.png": "/NEWS/static/media/most_recent.5f7b313d2ab3dc0418e5.png",
+    "static/media/12.png": "/NEWS/static/media/12.936350e3bce6067e667b.png",
+    "static/media/11.png": "/NEWS/static/media/11.4115afce528f2500ef1e.png",
+    "static/media/fontawesome-webfont.eot": "/NEWS/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/NEWS/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/whats_news_details2.png": "/NEWS/static/media/whats_news_details2.e67398a6b2a1f86447fc.png",
+    "static/media/whats_news_details4.png": "/NEWS/static/media/whats_news_details4.2222be0a4684d3e726fc.png",
+    "static/media/13.png": "/NEWS/static/media/13.d71c5d7e5a88a7e68285.png",
+    "static/media/whats_news_details1.png": "/NEWS/static/media/whats_news_details1.bf9654294d8157589996.png",
+    "static/media/10.png": "/NEWS/static/media/10.88ca628a0babe606ccd0.png",
+    "static/media/whats_news_details3.png": "/NEWS/static/media/whats_news_details3.b423b14d18f56796b3fb.png",
+    "static/media/body_card4.png": "/NEWS/static/media/body_card4.3e3726e03d95d7dc688d.png",
+    "static/media/body_card1.png": "/NEWS/static/media/body_card1.7b84d729050c104bb8b3.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/NEWS/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/NEWS/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/whats_right_img1.png": "/NEWS/static/media/whats_right_img1.3c50176e80d262bde628.png",
+    "static/media/whats_right_img2.png": "/NEWS/static/media/whats_right_img2.7b52d966a441ab407cbe.png",
+    "static/media/whats_right_img3.png": "/NEWS/static/media/whats_right_img3.062fe957879eca42a620.png",
+    "static/media/whats_right_img4.png": "/NEWS/static/media/whats_right_img4.9c3d8e901a2c0ce95066.png",
+    "static/media/footer_post2.png": "/NEWS/static/media/footer_post2.b77d16c5b3a7d97a8f91.png",
+    "static/media/most_recent1.png": "/NEWS/static/media/most_recent1.b629090e0f237ae50f52.png",
+    "static/media/footer_post1.png": "/NEWS/static/media/footer_post1.cac29a4d8c3b8378c48d.png",
+    "static/media/most_recent2.png": "/NEWS/static/media/most_recent2.3e269ff92f0246fb3efe.png",
+    "static/media/footer_post3.png": "/NEWS/static/media/footer_post3.67494dcd160877d6af20.png",
+    "index.html": "/NEWS/index.html",
+    "main.6c821df9.css.map": "/NEWS/static/css/main.6c821df9.css.map",
+    "main.bd299922.js.map": "/NEWS/static/js/main.bd299922.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c821df9.css",
+    "static/js/main.bd299922.js"
+  ]
+}
