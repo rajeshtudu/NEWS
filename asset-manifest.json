@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/NEWS/static/css/main.2e490a9f.css",
-    "main.js": "/NEWS/static/js/main.262a0f0b.js",
+    "main.css": "/NEWS/static/css/main.0fca9a16.css",
+    "main.js": "/NEWS/static/js/main.a8bf10a5.js",
     "static/media/1.png": "/NEWS/static/media/1.0ace9cab2c7247b594e0.png",
     "static/media/about.png": "/NEWS/static/media/about.3ffe41d816636b57fc84.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/NEWS/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -30,11 +30,20 @@
     "static/media/whats_news_details1.png": "/NEWS/static/media/whats_news_details1.bf9654294d8157589996.png",
     "static/media/news_card.jpg": "/NEWS/static/media/news_card.b46f2eaef22a1cdf520d.jpg",
     "static/media/10.png": "/NEWS/static/media/10.88ca628a0babe606ccd0.png",
+    "static/media/blog-recent-4.jpg": "/NEWS/static/media/blog-recent-4.7baac2bc28c6fc1fb6d3.jpg",
+    "static/media/blog-2.jpg": "/NEWS/static/media/blog-2.c468155dc0b08df1084d.jpg",
     "static/media/whats_news_details3.png": "/NEWS/static/media/whats_news_details3.b423b14d18f56796b3fb.png",
+    "static/media/blog-4.jpg": "/NEWS/static/media/blog-4.4a0359cc796f9c0e14b9.jpg",
     "static/media/body_card4.png": "/NEWS/static/media/body_card4.3e3726e03d95d7dc688d.png",
     "static/media/body_card1.png": "/NEWS/static/media/body_card1.7b84d729050c104bb8b3.png",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/NEWS/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/blog-3.jpg": "/NEWS/static/media/blog-3.d9c45891df80905de8ad.jpg",
+    "static/media/blog-recent-5.jpg": "/NEWS/static/media/blog-recent-5.d9c45891df80905de8ad.jpg",
+    "static/media/blog-1.jpg": "/NEWS/static/media/blog-1.97a1a61032fc6b5b3c4c.jpg",
+    "static/media/blog-recent-1.jpg": "/NEWS/static/media/blog-recent-1.6c72901270d9ddaf65fc.jpg",
+    "static/media/blog-recent-2.jpg": "/NEWS/static/media/blog-recent-2.8a5548fe4268c0219f3e.jpg",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/NEWS/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/blog-recent-3.jpg": "/NEWS/static/media/blog-recent-3.0eb7f94df65372166a74.jpg",
     "static/media/whats_right_img1.png": "/NEWS/static/media/whats_right_img1.3c50176e80d262bde628.png",
     "static/media/whats_right_img2.png": "/NEWS/static/media/whats_right_img2.7b52d966a441ab407cbe.png",
     "static/media/whats_right_img3.png": "/NEWS/static/media/whats_right_img3.062fe957879eca42a620.png",
@@ -45,11 +54,11 @@
     "static/media/most_recent2.png": "/NEWS/static/media/most_recent2.3e269ff92f0246fb3efe.png",
     "static/media/footer_post3.png": "/NEWS/static/media/footer_post3.67494dcd160877d6af20.png",
     "index.html": "/NEWS/index.html",
-    "main.2e490a9f.css.map": "/NEWS/static/css/main.2e490a9f.css.map",
-    "main.262a0f0b.js.map": "/NEWS/static/js/main.262a0f0b.js.map"
+    "main.0fca9a16.css.map": "/NEWS/static/css/main.0fca9a16.css.map",
+    "main.a8bf10a5.js.map": "/NEWS/static/js/main.a8bf10a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e490a9f.css",
-    "static/js/main.262a0f0b.js"
+    "static/css/main.0fca9a16.css",
+    "static/js/main.a8bf10a5.js"
   ]
 }
